@@ -2,12 +2,13 @@
 
 Este proyecto tiene como objetivo el diseño y desarrollo de un sistema para la generación y seguimiento de incidentes en una empresa de soporte operativo. A continuación, se detallan los requerimientos del sistema y las entregas planificadas.
 
+## Comision N° 120
 ## Integrantes Grupo N° 7:
 
    - Acosta Silvina Fernanda
-   - Diego Gerardo Sanchez
-   - Nancy Querol
-   - Alejandro Quiñones
+   - Sanchez Diego Gerardo
+   - Querol Nancy
+   - Quiñones Alejandro
 
 ## Requerimientos del Sistema
 
@@ -41,7 +42,7 @@ La empresa brinda soporte operativo en distintas aplicaciones (SAP, Tango, etc.)
 
 ## Metodología
 
-El proyecto se aborda mediante una metodología iterativa e incremental, dividido en tres entregas. El repositorio se encuentra en [GitHub](https://github.com/nancy091965/TP-EQUIPO-7-COM-120).
+El proyecto se aborda mediante una metodología iterativa e incremental, dividido en tres entregas.
 
 ## Entregas:
 

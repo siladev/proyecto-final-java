@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo el diseño y desarrollo de un sistema para la 
    - Acosta Silvina Fernanda
    - Sanchez Diego Gerardo
    - Querol Nancy
-   - Quiñones Alejandro
+   - Quiñonez Alejandro
 
 ## Requerimientos del Sistema
 

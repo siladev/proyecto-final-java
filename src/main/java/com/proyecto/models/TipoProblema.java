@@ -10,6 +10,6 @@ public class TipoProblema {
     private int id;
     private String nombre_problema;
     private Especialidad especialidad;
-    private int timepo_resolucion; // en horas
+    private int timepo_resolucion; // en minutos
     private List<Incidente> incidente;
 }

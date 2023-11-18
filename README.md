@@ -52,7 +52,7 @@ En esta fase, nos enfocaremos en modelar, a nivel de datos y objetos, una soluci
 
 1. Modelo de datos (DER físico) que brinde solución al dominio.
 
-![Diagrama DER](./Diagrama_DER_fisico_reporte_Incidentes.png)
+![Diagrama DER](./Diagrama_DER.png)
 
 2. Código con modelado de clases. El proyecto Java se creará como un proyecto Maven, y se recomienda la utilización de Lombok para facilitar la generación de Setters y Getters.
 

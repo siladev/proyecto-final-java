@@ -1,4 +1,7 @@
-package com.proyecto.models;
+package com.proyecto.model;
+
+import com.proyecto.model.entities.Incidente;
+import com.proyecto.model.entities.Tecnico;
 
 import java.util.List;
 import java.util.Map;
